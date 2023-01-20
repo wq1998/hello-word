@@ -5,6 +5,14 @@ test repository
 ### H3
 **bold text**
 *italicized text*
+
+
+
+
+<h3 id="custom-id">My Great Heading test html</h3>
+
+<a href="#custom-id">Heading IDs</a> <!-- (lead to up title)-->
+
 > blockquote
 > cmeomc
 > chowedje
@@ -38,7 +46,7 @@ Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
-### My Great Heading {#1}
+
 
 term
 : definition
@@ -51,8 +59,12 @@ term
 
 That is so funny! :joy:
 
+hhhhhh <mark>very important words</mark> hbhkj
+
 I need to highlight these ==very important words==.
 
 H~2~O
+H<sub>2</sub>O
 
 X^2^
+X<sup>2</sup>
